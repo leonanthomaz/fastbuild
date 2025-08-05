@@ -1,6 +1,6 @@
 [project]
 name = "fastbuild"
-version = "0.1.0"
+version = "0.1.1"
 description = "CLI tool to bootstrap FastAPI projects"
 authors = [{name = "Leonan", email = "leonan.thomaz@gmail.com"}]
 license = "MIT"
